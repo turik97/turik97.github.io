@@ -1,0 +1,79 @@
+﻿/* Всем привет кто смотрит мой исходный код! Я тебя вижу */
+
+#five,
+#four,
+#three,
+.block {
+    background: gray
+}
+
+#four,
+#zero,
+.block {
+    border: 3px solid pink;
+    color: pink
+}
+
+* {
+    box-sizing: border-box
+}
+
+table,
+td,
+th {
+    border: 1px solid #000
+}
+
+div {
+    margin: 5px;
+    padding: 5px
+}
+
+#container {
+    overflow: hidden;
+    background: #ff0;
+    border: 3px solid pink
+}
+
+#four,
+#zero {
+    background: #00f
+}
+
+#four {
+    clear: both;
+    margin: 20px 0 0
+}
+
+#zero {
+    padding: 10px;
+    width: 99%
+}
+
+#three {
+    width: 25%;
+    margin-right: 0
+}
+
+ul {
+    padding: 0
+}
+
+a {
+    color: #00f !important
+}
+
+#two {
+    width: 60%
+}
+
+#one {
+    width: 13%;
+    margin-left: 0
+}
+
+#one,
+#three,
+#two {
+    float: left
+}
